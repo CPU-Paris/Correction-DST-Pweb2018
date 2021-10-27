@@ -5,7 +5,7 @@ La correction officielle : [PWEBi_DST_nov2018_COR.pdf](https://cdn.discordapp.co
 La correction étudiante = ce repository
 
 
-* Le dossier Model ne fais pas partie de la correction et n'est donc pas à coder
+* Le dossier Model ne fais pas partie de la correction, il ne sert qu'à rendre le code exécutable donc ne pas le regarder
 * Le fichier index.php est à apprendre par coeur mais n'est pas demandé à coder dans ce DST
 * Le contrôleur home et index.php ne font pas partie du DST  
   Cela faisait partie des explications
