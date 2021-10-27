@@ -1,4 +1,9 @@
-## Correction DST Pweb 2018
+## Correction DST Pweb 2018 
+
+La correction officielle : [PWEBi_DST_nov2018_COR.pdf](https://cdn.discordapp.com/attachments/751948889984073820/902938043663646740/PWEBi_DST_nov2018_COR.pdf)
+
+La correction étudiante = ce repository
+
 
 * Le dossier Model ne fais pas partie de la correction et n'est donc pas à coder
 * Le fichier index.php est à apprendre par coeur mais n'est pas demandé à coder dans ce DST
